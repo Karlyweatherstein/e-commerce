@@ -16,4 +16,4 @@
 
 - GitHub URL for this project: https://github.com/Karlyweatherstein/e-commerce
 
-- Walkthrough video URL:
+- Walkthrough video URL: https://drive.google.com/file/d/18t68c12jZOvPisC-jNQb9uRT1p-RmGuW/view
